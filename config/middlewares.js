@@ -12,7 +12,7 @@ module.exports = [
           upgradeInsecureRequests: null,
         },
       },
-    },
+    }
   },
   'strapi::cors',
   'strapi::poweredBy',
